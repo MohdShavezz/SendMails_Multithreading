@@ -1,0 +1,8 @@
+E:\Multithreading\threadMail\threadMail\bin\Debug\threadMail.exe.config
+E:\Multithreading\threadMail\threadMail\bin\Debug\threadMail.exe
+E:\Multithreading\threadMail\threadMail\bin\Debug\threadMail.pdb
+E:\Multithreading\threadMail\threadMail\obj\Debug\threadMail.csproj.AssemblyReference.cache
+E:\Multithreading\threadMail\threadMail\obj\Debug\threadMail.csproj.SuggestedBindingRedirects.cache
+E:\Multithreading\threadMail\threadMail\obj\Debug\threadMail.csproj.CoreCompileInputs.cache
+E:\Multithreading\threadMail\threadMail\obj\Debug\threadMail.exe
+E:\Multithreading\threadMail\threadMail\obj\Debug\threadMail.pdb

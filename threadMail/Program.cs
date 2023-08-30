@@ -17,7 +17,7 @@ namespace Multithreading
         public static void Mail(string email, string subject, string body)
         {
             string fromEmail = email;
-            string fromPassword = "cgjjnzerwhdxhijp";
+            string fromPassword = "xxxxxxxxxxxxx";
 
             MailMessage message = new MailMessage();
             message.From = new MailAddress(fromEmail);
@@ -39,7 +39,7 @@ namespace Multithreading
             for (int i = 0; i < 10; i++)
             {
                 int ii = i+1;
-                string address = "mohdpctebtech19cse@gmail.com"; // Assuming you want to change the email address 
+                string address = "mdpctbtech19cse@gmail.com"; // Assuming you want to change the email address 
                 Thread thread = new Thread(() => Mail(address, $"hello{ii}", "World"));
                 threads.Add(thread);
             }
